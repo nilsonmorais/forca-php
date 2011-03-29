@@ -1,0 +1,28 @@
+body {
+	text-align: center;
+	font-family: verdana,helvetica,arial;
+}
+
+.div_geral {
+	padding: 5px;
+	margin: 10px;
+	border-radius: 10px;
+	font-size: 12px;
+	text-align: left;
+}
+#div_main {
+	border: 1px solid blue;
+	background: #AAF;
+	width: 500px;
+	height: 400px;
+}
+
+#palavra {
+	font-size: 25px;
+	letter-spacing: 5px;
+	text-transform:uppercase;
+}
+
+h1,h2,h3 {
+	padding: 5px;
+}
